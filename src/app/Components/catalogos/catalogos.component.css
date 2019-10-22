@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    font-size: 12px;
+    background-color: #f1f2f6;
+    overflow-x: hidden;
+}
+
+.navbar-nav {
+    padding-top: 20%;
+    border: none;
+    padding-left: 70%;
+}
